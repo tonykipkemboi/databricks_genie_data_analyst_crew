@@ -4,7 +4,7 @@ Welcome to the DataAnalyst Crew project, powered by [crewAI](https://crewai.com)
 
 Watch a short walkthrough of the tool in action:
 
-<video src="assets/demo-recording.mp4" controls width="720"></video>
+![Watch the demo](assets/demo-recording.gif)
 
 ## Installation
 
